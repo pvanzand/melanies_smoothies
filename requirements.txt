@@ -10,3 +10,4 @@
 #      - .streamlit/config.toml
 snowflake-snowpark-python
 streamlit
+requests
